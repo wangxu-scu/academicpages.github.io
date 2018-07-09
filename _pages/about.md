@@ -1,5 +1,3 @@
-<link rel="shortcut icon" href="../images/favicon.ico"/>
-<link rel="bookmark" href="../images/favicon.ico"/>
 ---
 permalink: /
 title: "Welcome to Wang Xu's Homepage"
