@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcom to WangXu's Homepage"
+title: "Welcome to WangXu's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
