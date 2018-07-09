@@ -1,5 +1,7 @@
+```html
 <link rel="shortcut icon" href="../images/favicon.ico"/>
 <link rel="bookmark" href="../images/favicon.ico"/>
+```
 ---
 permalink: /
 title: "Welcom to WangXu's Homepage"
