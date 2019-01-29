@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xu Wang (王旭)"
   avatar           : "wangxu.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a computer science PhD candidate student at Sichuan University"
+  location         : "Chengdu, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "xxxx"
   email            :
   uri              :
   bitbucket        :
