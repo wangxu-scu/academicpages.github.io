@@ -6,9 +6,9 @@ excerpt: 'To eliminate the view discrepancy of multi-view data due to different 
 date: 2019-01-27
 venue: 'Journal'
 paperurl: 'https://doi.org/10.1016/j.knosys.2019.01.017'
-<font face="黑体">citation:</font> 'X. Wang, D. Peng, P. Hu et al., Adversarial correlated autoencoder for unsupervised multi-view representation learning, Knowledge-Based Systems (2019), https://doi.org/10.1016/j.knosys.2019.01.017'
+<font color=red>citation:</font> 'X. Wang, D. Peng, P. Hu et al., Adversarial correlated autoencoder for unsupervised multi-view representation learning, Knowledge-Based Systems (2019), https://doi.org/10.1016/j.knosys.2019.01.017'
 ---
 
 [Download paper here](http://wangxu-scu.github.io/files/paper1.pdf)
 
-<font face="黑体">Recommended citation:</font> X. Wang, D. Peng, P. Hu et al., Adversarial correlated autoencoder for unsupervised multi-view representation learning, Knowledge-Based Systems (2019), https://doi.org/10.1016/j.knosys.2019.01.017
+<font color=red>Recommended citation:</font> X. Wang, D. Peng, P. Hu et al., Adversarial correlated autoencoder for unsupervised multi-view representation learning, Knowledge-Based Systems (2019), https://doi.org/10.1016/j.knosys.2019.01.017
