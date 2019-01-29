@@ -10,4 +10,4 @@ redirect_from:
 
 About Me
 ======
-I am a PhD. Candidate at Machine Intelligence Laboratory, College of Computer Science, Sichuan University. I received B.E. degree from Department of Software Engineering, Sichuan University in June, 2015.
+I am a PhD. Candidate at [Machine Intelligence Laboratory](http://www.machineilab.org/), [College of Computer Science](http://www.scu.edu.cn/e_jsjxy/), [Sichuan University](http://en.scu.edu.cn/). I received B.E. degree from Department of Software Engineering, Sichuan University in June, 2015.
