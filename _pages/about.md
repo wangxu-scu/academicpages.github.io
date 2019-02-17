@@ -18,6 +18,6 @@ redirect_from:
 
 <body>
 <div>
-  <script type="text/javascript" src="//ra.revolvermaps.com/0/0/8.js?i=0o4ki57bjnh&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+  <script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0o4ki57bjnh&amp;m=0c&amp;c=ff5353&amp;cr1=3acc3a&amp;f=times_new_roman&amp;l=1&amp;cw=2d78ad&amp;cb=ffffff" async="async"></script>
 </div>
 </body>
