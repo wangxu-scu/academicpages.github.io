@@ -16,7 +16,7 @@ author_profile: true
 
 <b>[DPRSL: Deep Pairwise Relational Similarity Learning for Cross-modal Retrieval](http://wangxu-scu.github.io/publications/DPRSL)</b><br>
 <b>Xu Wang\*</b>, Peng Hu\*, Liangli Zhen and Dezhong Peng.<br>
-<i>In submission to the 25rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>.
+<i>In submission to the 25th SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>.
 
 ## Natural Language Processing
 
