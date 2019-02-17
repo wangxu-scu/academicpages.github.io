@@ -5,7 +5,7 @@ permalink: /publication/AdvCAE
 venue: "Knowledge-Based Systems"
 date: 2019-01-27
 venue: 'Knowledge-Based Systems' 
-citation: '<b>Xu Wang</b>, Dezhong Peng, Peng Hu and Yongsheng Sang. Adversarial correlated autoencoder for unsupervised multi-view representation learning\[J\]. <i>Knowledge-Based Systems</i>, 2019, 168: 109-120.'
+citation: '<b>Xu Wang</b>, Dezhong Peng, Peng Hu and Yongsheng Sang. Adversarial correlated autoencoder for unsupervised multi-view representation learning[J]. <i>Knowledge-Based Systems</i>, 2019, 168: 109-120.'
 ---
 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0950705119300176)
 [[bibtex]](http://wangxu-scu.github.io/assets/bibs/Wang2019AdvCAE.bib)
