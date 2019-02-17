@@ -14,9 +14,17 @@ author_profile: true
 <b>Xu Wang</b>, Peng Hu, Pei Liu and Dezhong Peng.<br>
 <i>In submission to IEEE Transactions on Image Processing.</i>
 
-<b>[DPRSL: Deep Pairwise Relational Similarity Learning for Cross-modal Retrieval](http://wangxu-scu.github.io/publications/DPRSL)</b><br>
+<b>[Multimodal Adversarial Network for Cross-modal Retrieval](http://wangxu-scu.github.io/publications/MAN)</b><br>
+Peng Hu, Dezhong Peng, <b>Xu Wang</b> and Yong Xiang.<br>
+<i>In submission to Knowledge-Based Systems.</i>
+
+<b>[XXXX](http://wangxu-scu.github.io/publications/DPRSL)</b><br>
 <b>Xu Wang\*</b>, Peng Hu\*, Liangli Zhen and Dezhong Peng.<br>
 <i>In submission to the 25th SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>.
+
+<b>[XXXX](http://wangxu-scu.github.io/publications/DSCMR)</b><br>
+Liangli Zhen\*, Peng Hu\*, <b>Xu Wang</b> and Dezhong Peng.<br>
+<i>In submission to the Thirtieth IEEE/CVF Conference on Computer Vision and Pattern Recognition.</i> <b>CVPR 2019</b>.
 
 ## Natural Language Processing
 
