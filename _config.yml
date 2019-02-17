@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Wang Xu"
+title                    : "Xu Wang"
 title_separator          : "-"
-name                     : &name "Wang Xu (王旭)"
+name                     : &name "Xu Wang (王旭)"
 description              : &description "personal description"
 url                      : https://wangxu-scu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Xu Wang (王旭)"
   avatar           : "wangxu.png"
-  bio              : "I am a computer science PhD candidate student at Sichuan University"
+  bio              : "PhD candidate, College of Computer Science, Sichuan University"
   location         : "Chengdu, China"
   employer         :
   googlescholar    : "xxxx"
