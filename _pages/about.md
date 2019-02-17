@@ -15,3 +15,6 @@ redirect_from:
 
 # Recent News
 * \[<span style="color: red">Publications</span>\]: January 10, 2019. One paper was accepted by Knowledge-Based Systems.
+
+
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=m7nz6XoznKnOxs5MmvFN7AhcM8LQ6gwSst0KiRJL9mc"></script>
