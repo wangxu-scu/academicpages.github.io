@@ -6,7 +6,7 @@ author_profile: true
 
 ## Multi-view Analysis & Multi-modal Learning 
 
-<b>[Adversarial correlated autoencoder for unsupervised multi-view representation learning](http://wangxu-scu.github.io/publications/AdvCAE)</b> <br>
+<b>[Adversarial correlated autoencoder for unsupervised multi-view representation learning](http://wangxu-scu.github.io/publications/AdvCAE.md)</b> <br>
 <b>Xu Wang</b>, Dezhong Peng, Peng Hu and Yongsheng Sang.<br>
 <i>Knowledge-Based Systems.</i>
 
