@@ -1,16 +1,25 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Multi-view Analysis & Multi-modal Learning 
 
-{% include base_path %}
+<b>[Adversarial correlated autoencoder for unsupervised multi-view representation learning](http://wangxu-scu.github.io/publications/AdvCAE)</b> <br>
+<b>Xu Wang</b>, Dezhong Peng, Peng Hu and Yongsheng Sang.<br>
+<i>Knowledge-Based Systems.</i>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Classes Collapsed Cross-view Metric Learning Networks](http://wangxu-scu.github.io/publications/C3MLNets)</b> <br>
+<b>Xu Wang</b>, Peng Hu, Pei Liu and Dezhong Peng.<br>
+<i>In submission to IEEE Transactions on Image Processing.</i>
+
+<b>[DPRSL: Deep Pairwise Relational Similarity Learning for Cross-modal Retrieval](http://wangxu-scu.github.io/publications/DPRSL)</b><br>
+<b>Xu Wang\*</b>, Peng Hu\*, Liangli Zhen and Dezhong Peng.<br>
+<i>In submission to the 25rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>.
+
+## Natural Language Processing
+
+
+[\* denotes equal contribution]
+
