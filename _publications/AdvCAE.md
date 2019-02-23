@@ -1,5 +1,5 @@
 ---
-title: "Adversarial correlated autoencoder for unsupervised multi-view representation learning"
+title: "Adversarial Correlated Autoencoder for Unsupervised Multi-view Representation Learning"
 collection: publications
 permalink: /publications/AdvCAE
 venue: "Knowledge-Based Systems"
