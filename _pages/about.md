@@ -21,4 +21,5 @@ redirect_from:
 <div>
   <script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0o4ki57bjnh&amp;m=0c&amp;c=ff5353&amp;cr1=3acc3a&amp;f=times_new_roman&amp;l=1&amp;cw=2d78ad&amp;cb=ffffff" async="async"></script>
 </div>
+  <a href="https://info.flagcounter.com/7GMP"><img src="https://s04.flagcounter.com/count2/7GMP/bg_FBFAFF/txt_0F0F0F/border_AB0C1C/columns_6/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </body>
