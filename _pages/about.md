@@ -14,6 +14,7 @@ redirect_from:
 * My research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning.
 
 # Recent News
+* \[<span style="color: red">Publications</span>\]: May 8, 2019. One paper was accepted by Knowledge-Based Systems.
 * \[<span style="color: red">Publications</span>\]: Feburary 25, 2019. One paper was accepted by The 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2019).
 * \[<span style="color: red">Publications</span>\]: January 10, 2019. One paper was accepted by Knowledge-Based Systems.
 
