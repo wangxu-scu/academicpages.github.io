@@ -7,7 +7,7 @@ author_profile: true
 
 <b>[Multimodal Adversarial Network for Cross-modal Retrieval](http://wangxu-scu.github.io/publications/MAN)</b> 
 <br>Peng Hu, Dezhong Peng, <b>Xu Wang</b>, and Yong Xiang.<br>
-<i>Knowledge-Based Systems, In press, 2019.</i>
+<i>Knowledge-Based Systems, In press, 2019.</i> \[[code](https://github.com/penghu-cs/MAN)\]
 
 <b>[Deep Supervised Cross-modal Retrieval](http://wangxu-scu.github.io/publications/DSCMR)</b>
 <br>Liangli Zhen\*, Peng Hu\*, <b>Xu Wang</b>, and Dezhong Peng.<br>
