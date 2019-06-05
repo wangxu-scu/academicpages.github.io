@@ -13,7 +13,7 @@ redirect_from:
 * 我于2015年7月从四川大学软件学院获得工学学士学位。I received B.E. degree from Department of Software Engineering, Sichuan University in June, 2015. 
 * 我的研究兴趣包括机器学习、深度学习、多视图分析和多模态学习等。My research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning.
 
-# Recent News
+# 最新消息|Recent News
 * \[<span style="color: red">Awards</span>\]: May 30, 2019. I was awarded with the Chinese Government Scholarship.
 * \[<span style="color: red">Publications</span>\]: May 8, 2019. One paper was accepted by Knowledge-Based Systems.
 * \[<span style="color: red">Publications</span>\]: Feburary 25, 2019. One paper was accepted by The 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2019).
