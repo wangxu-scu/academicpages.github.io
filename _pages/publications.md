@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Deep Supervised Cross-modal Retrieval](http://wangxu-scu.github.io/publications/DSCMR)</b>
+<b>[Separated Variational Hashing Networks for Cross-Modal Retrieval](http://wangxu-scu.github.io/publications/SVHNs)</b>
 <br>Peng Hu\*, <b>Xu Wang\*</b>, Liangli Zhen, and Dezhong Peng.<br>
 <i>The 27th ACM International Conference on Multimedia.</i> <b>MM 2019</b>.
 
