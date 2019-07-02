@@ -14,9 +14,10 @@ redirect_from:
 * 我的研究兴趣包括机器学习、深度学习、多视图分析和多模态学习等。My research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning.
 
 # 最新消息 | Recent News
+* \[<span style="color: red">Publications</span>\]: July 2, 2019. One paper was accepted by The 27th ACM International Conference on Multimedia (MM 2019), Nice, France, 21 - 25 October 2019.
 * \[<span style="color: red">Awards</span>\]: May 30, 2019. I was awarded with the Chinese Government Scholarship.
 * \[<span style="color: red">Publications</span>\]: May 8, 2019. One paper was accepted by Knowledge-Based Systems.
-* \[<span style="color: red">Publications</span>\]: Feburary 25, 2019. One paper was accepted by The 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2019).
+* \[<span style="color: red">Publications</span>\]: Feburary 25, 2019. One paper was accepted by The 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2019), Long Beach, CA, USA, 16 - 20 June 2019.
 * \[<span style="color: red">Publications</span>\]: January 10, 2019. One paper was accepted by Knowledge-Based Systems.
 
 <body>
