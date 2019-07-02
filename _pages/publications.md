@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>[Deep Supervised Cross-modal Retrieval](http://wangxu-scu.github.io/publications/DSCMR)</b>
+<br>Peng Hu\*, <b>Xu Wang\*</b>, Liangli Zhen, and Dezhong Peng.<br>
+<i>The 27th ACM International Conference on Multimedia.</i> <b>MM 2019</b>.
 
 <b>[Multimodal Adversarial Network for Cross-modal Retrieval](http://wangxu-scu.github.io/publications/MAN)</b> 
 <br>Peng Hu, Dezhong Peng, <b>Xu Wang</b>, and Yong Xiang.<br>
