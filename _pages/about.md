@@ -14,6 +14,7 @@ redirect_from:
 * 我的研究兴趣包括机器学习、深度学习、多视图分析和多模态学习等。My research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning.
 
 # 最新消息 | Recent News
+* \[<span style="color: red">Services</span>\]: September 20, 2019. I have been invited to be a reviewer for IEEE Robotics and Automation Letters.
 * \[<span style="color: red">Awards</span>\]: July 11, 2019. I was awarded with the First-class Scholarship of Sichuan University for PhD students.
 * \[<span style="color: red">Publications</span>\]: July 2, 2019. One paper was accepted by [The 27th ACM International Conference on Multimedia (MM 2019)](https://www.acmmm.org/2019/), Nice, France, 21 - 25 October 2019.
 * \[<span style="color: red">Awards</span>\]: May 30, 2019. I was awarded with the Chinese Government Scholarship provided by China Scholarship Council (CSC).
