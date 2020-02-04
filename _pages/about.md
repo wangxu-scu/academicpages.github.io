@@ -14,6 +14,7 @@ redirect_from:
 * 我的研究兴趣包括机器学习、深度学习、多视图分析和多模态学习等。My research interests include Machine Learning, Deep Learning, Multi-view Analysis and Multi-modal Learning.
 
 # 最新消息 | Recent News
+* \[<span style="color: red">Services</span>\]: January 28, 2020. I have been invited to be a reviewer for IEEE Signal Processing Letters.
 * \[<span style="color: red">Awards</span>\]: October 9, 2019. I was awarded with the National Scholarship of China for Doctoral Candidate. 
 * \[<span style="color: red">Services</span>\]: October 7, 2019. I have been invited to be a reviewer for IEEE Transactions on Neural Networks and Learning Systems.
 * \[<span style="color: red">Awards</span>\]: September 27, 2019. I was awarded with the Outstanding Doctoral Candidate of Sichuan University.
