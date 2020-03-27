@@ -3,6 +3,9 @@ title: "发表论文 | Publications [(Google Scholar Profile)](https://scholar.g
 permalink: /publications/
 author_profile: true
 ---
+<b>[Adversarial Deep Semi-supervised Class- and Correlation-collapsed Cross-view Learning](http://wangxu-scu.github.io/publications/DSC3L)</b> 
+<br><b>Xu Wang</b>, Peng Hu, Pei Liu, and Dezhong Peng.<br>
+<i>IEEE Transactions on Cybernetics, 2020.</i>
 
 <b>[Separated Variational Hashing Networks for Cross-Modal Retrieval](http://wangxu-scu.github.io/publications/SVHNs)</b>
 <br>Peng Hu\*, <b>Xu Wang\*</b>, Liangli Zhen, and Dezhong Peng.<br>
